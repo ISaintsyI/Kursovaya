@@ -1,0 +1,55 @@
+name: dockercompose10274485290574355489
+services:
+  api:
+    build:
+      context: C:\Users\Влад\Desktop\_Nomerogram
+      dockerfile: Api/Dockerfile
+    container_name: api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: api
+    networks:
+      network: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "5050"
+        protocol: tcp
+  postgres:
+    container_name: postgres_db
+    environment:
+      PGDATA: /var/lib/postgresql/data/pgdata
+      POSTGRES_PASSWORD: root
+      POSTGRES_USER: root
+    image: postgres:15
+    networks:
+      network: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5432"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: /c/Users/Влад/Desktop/_Nomerogram
+        target: /var/lib/postgresql/data
+        bind:
+          create_host_path: true
+  validation:
+    build:
+      context: C:\Users\Влад\Desktop\_Nomerogram
+      dockerfile: Validation/Dockerfile
+    container_name: validation
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: validation
+    networks:
+      network: null
+    ports:
+      - mode: ingress
+        target: 80
+        protocol: tcp
+networks:
+  network:
+    name: dockercompose10274485290574355489_network
+    driver: bridge

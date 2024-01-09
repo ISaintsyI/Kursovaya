@@ -1,0 +1,42 @@
+version: '3.4'
+
+services:
+  api:
+    container_name: api
+    image: ${DOCKER_REGISTRY-}api
+    build:
+      context: .
+      dockerfile: Api/Dockerfile
+    networks:
+      - network
+
+  postgres:
+    container_name: postgres_db
+    image: postgres:15
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_USER=root
+      - POSTGRES_PASSWORD=root   
+      - PGDATA=/var/lib/postgresql/data/pgdata
+    volumes:
+      - .:/var/lib/postgresql/data
+    networks:
+      - network
+
+  validation:
+    container_name: validation
+    image: ${DOCKER_REGISTRY-}validation
+    build:
+      context: .
+      dockerfile: Validation/Dockerfile
+    networks:
+      - network
+
+networks:
+  network:
+    driver: bridge
+
+volumes:
+  postgres-data:
+

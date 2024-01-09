@@ -1,0 +1,30 @@
+D:\Projects\C# Projects\Nomerogram\Data\bin\Debug\net7.0\Data.deps.json
+D:\Projects\C# Projects\Nomerogram\Data\bin\Debug\net7.0\Data.dll
+D:\Projects\C# Projects\Nomerogram\Data\bin\Debug\net7.0\Data.pdb
+D:\Projects\C# Projects\Nomerogram\Data\bin\Debug\net7.0\Domain.dll
+D:\Projects\C# Projects\Nomerogram\Data\bin\Debug\net7.0\Domain.pdb
+D:\Projects\C# Projects\Nomerogram\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+D:\Projects\C# Projects\Nomerogram\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C# Projects\Nomerogram\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+D:\Projects\C# Projects\Nomerogram\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+D:\Projects\C# Projects\Nomerogram\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\Nomerogram\Data\obj\Debug\net7.0\Data.csproj.CopyComplete
+D:\Projects\C# Projects\Nomerogram\Data\obj\Debug\net7.0\Data.dll
+D:\Projects\C# Projects\Nomerogram\Data\obj\Debug\net7.0\refint\Data.dll
+D:\Projects\C# Projects\Nomerogram\Data\obj\Debug\net7.0\Data.pdb
+D:\Projects\C# Projects\Nomerogram\Data\obj\Debug\net7.0\ref\Data.dll
+C:\Users\Влад\Desktop\_Nomerogram\Data\bin\Debug\net7.0\Data.deps.json
+C:\Users\Влад\Desktop\_Nomerogram\Data\bin\Debug\net7.0\Data.dll
+C:\Users\Влад\Desktop\_Nomerogram\Data\bin\Debug\net7.0\Data.pdb
+C:\Users\Влад\Desktop\_Nomerogram\Data\bin\Debug\net7.0\Domain.dll
+C:\Users\Влад\Desktop\_Nomerogram\Data\bin\Debug\net7.0\Domain.pdb
+C:\Users\Влад\Desktop\_Nomerogram\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+C:\Users\Влад\Desktop\_Nomerogram\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\Desktop\_Nomerogram\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+C:\Users\Влад\Desktop\_Nomerogram\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+C:\Users\Влад\Desktop\_Nomerogram\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\_Nomerogram\Data\obj\Debug\net7.0\Data.csproj.CopyComplete
+C:\Users\Влад\Desktop\_Nomerogram\Data\obj\Debug\net7.0\Data.dll
+C:\Users\Влад\Desktop\_Nomerogram\Data\obj\Debug\net7.0\refint\Data.dll
+C:\Users\Влад\Desktop\_Nomerogram\Data\obj\Debug\net7.0\Data.pdb
+C:\Users\Влад\Desktop\_Nomerogram\Data\obj\Debug\net7.0\ref\Data.dll

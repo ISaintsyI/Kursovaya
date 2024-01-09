@@ -1,0 +1,18 @@
+name: dockercompose7349585104668239068
+services:
+  api:
+    build:
+      context: D:\Projects\C# Projects\Nomerogram
+      dockerfile: Api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: api
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose7349585104668239068_default

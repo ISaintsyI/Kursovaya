@@ -1,0 +1,43 @@
+name: dockercompose7349585104668239068
+services:
+  api:
+    build:
+      context: D:\Projects\C# Projects\Nomerogram
+      dockerfile: Api/Dockerfile
+    container_name: api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: api
+    networks:
+      network: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "5050"
+      protocol: tcp
+  postgres:
+    container_name: postgres_db
+    environment:
+      PGDATA: /var/lib/postgresql/data/pgdata
+      POSTGRES_PASSWORD: root
+      POSTGRES_USER: root
+    image: postgres:15
+    networks:
+      network: null
+    ports:
+    - mode: ingress
+      target: 5432
+      published: "5432"
+      protocol: tcp
+    volumes:
+    - type: volume
+      source: postgres-data
+      target: /var/lib/postgresql/data
+      volume: {}
+networks:
+  network:
+    name: dockercompose7349585104668239068_network
+    driver: bridge
+volumes:
+  postgres-data:
+    name: dockercompose7349585104668239068_postgres-data

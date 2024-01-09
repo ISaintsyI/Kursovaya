@@ -1,0 +1,58 @@
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Api.deps.json
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Api.runtimeconfig.json
+D:\Projects\C# Projects\Nomerogram\bin\Debug\appsettings.Development.json
+D:\Projects\C# Projects\Nomerogram\bin\Debug\appsettings.json
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Api.exe
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Api.dll
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Api.pdb
+D:\Projects\C# Projects\Nomerogram\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Projects\C# Projects\Nomerogram\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\Nomerogram\obj\Debug\docker-compose.dcproj.CopyComplete
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Data.dll
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Domain.dll
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Npgsql.dll
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Data.pdb
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Domain.pdb
+D:\Projects\C# Projects\Nomerogram\bin\Debug\FluentValidation.dll
+D:\Projects\C# Projects\Nomerogram\bin\Debug\FluentValidation.DependencyInjectionExtensions.dll
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Validation.deps.json
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Validation.runtimeconfig.json
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Validation.exe
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Validation.dll
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\C# Projects\Nomerogram\bin\Debug\Validation.pdb
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\appsettings.Development.json
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\appsettings.json
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Api.deps.json
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Api.runtimeconfig.json
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Api.exe
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Validation.deps.json
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Validation.runtimeconfig.json
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Validation.exe
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Api.dll
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Validation.dll
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Data.dll
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Domain.dll
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\FluentValidation.dll
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Npgsql.dll
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Api.pdb
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Validation.pdb
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Data.pdb
+C:\Users\Влад\Desktop\_Nomerogram\bin\Debug\Domain.pdb
+C:\Users\Влад\Desktop\_Nomerogram\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\Влад\Desktop\_Nomerogram\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\_Nomerogram\obj\Debug\docker-compose.dcproj.CopyComplete
